@@ -1,2 +1,2 @@
 # education
-Repo for educational studies
+Repo for on-going labs, exercises, and support files
